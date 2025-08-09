@@ -1,0 +1,481 @@
+{
+  "timestamp": "2025-08-09T12:01:36.299Z",
+  "features": [
+    "topic",
+    "detail"
+  ],
+  "totalFiles": 12,
+  "uploadedFiles": 6,
+  "failedFiles": 0,
+  "uploadResults": [
+    {
+      "originalPath": "old/02f8f5bd5fcd.jpg",
+      "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+      "filename": "02f8f5bd5fcd.jpg",
+      "mappings": [
+        {
+          "feature": "topic",
+          "table": "topic",
+          "column": "pic",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic2",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic3",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic4",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic5",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "dfile",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "f49135f8-1543-4bf7-b385-94c539c47929",
+          "fileSize": 22988
+        }
+      ],
+      "fileSize": 22988
+    },
+    {
+      "originalPath": "old/1abf39a26821.jpg",
+      "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+      "filename": "1abf39a26821.jpg",
+      "mappings": [
+        {
+          "feature": "topic",
+          "table": "topic",
+          "column": "pic",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic2",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic3",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic4",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic5",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "dfile",
+          "id": "1",
+          "oldPath": "1abf39a26821.jpg",
+          "fileName": "1abf39a26821.jpg",
+          "directusId": "0482b2ca-a232-4f71-8590-d54c623f8988",
+          "fileSize": 222228
+        }
+      ],
+      "fileSize": 222228
+    },
+    {
+      "originalPath": "old/1cfd3971acbf.jpg",
+      "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+      "filename": "1cfd3971acbf.jpg",
+      "mappings": [
+        {
+          "feature": "topic",
+          "table": "topic",
+          "column": "pic",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic2",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic3",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic4",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic5",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "dfile",
+          "id": "1",
+          "oldPath": "1cfd3971acbf.jpg",
+          "fileName": "1cfd3971acbf.jpg",
+          "directusId": "ddb4c2c4-fc5e-451a-aed8-3bbd9711f1b0",
+          "fileSize": 857751
+        }
+      ],
+      "fileSize": 857751
+    },
+    {
+      "originalPath": "old/2adf2b8831e1.jpg",
+      "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+      "filename": "2adf2b8831e1.jpg",
+      "mappings": [
+        {
+          "feature": "topic",
+          "table": "topic",
+          "column": "pic",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic2",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic3",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic4",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic5",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "dfile",
+          "id": "2",
+          "oldPath": "2adf2b8831e1.jpg",
+          "fileName": "2adf2b8831e1.jpg",
+          "directusId": "3ac4e1d2-7601-4bec-afcd-145e5b491c9f",
+          "fileSize": 72310
+        }
+      ],
+      "fileSize": 72310
+    },
+    {
+      "originalPath": "old/2dcba7bc9039.jpg",
+      "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+      "filename": "2dcba7bc9039.jpg",
+      "mappings": [
+        {
+          "feature": "topic",
+          "table": "topic",
+          "column": "pic",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic2",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic3",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic4",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic5",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "dfile",
+          "id": "2",
+          "oldPath": "2dcba7bc9039.jpg",
+          "fileName": "2dcba7bc9039.jpg",
+          "directusId": "ca60a583-6b37-4923-8788-8fb58e6e3316",
+          "fileSize": 65160
+        }
+      ],
+      "fileSize": 65160
+    },
+    {
+      "originalPath": "old/3b3542811cd0.jpg",
+      "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+      "filename": "3b3542811cd0.jpg",
+      "mappings": [
+        {
+          "feature": "topic",
+          "table": "topic",
+          "column": "pic",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic2",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic3",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic4",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "pic5",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        },
+        {
+          "feature": "detail",
+          "table": "detail",
+          "column": "dfile",
+          "id": "3",
+          "oldPath": "3b3542811cd0.jpg",
+          "fileName": "3b3542811cd0.jpg",
+          "directusId": "21505a76-c7f5-4b85-99e4-1f2b15b01ee2",
+          "fileSize": 203495
+        }
+      ],
+      "fileSize": 203495
+    }
+  ],
+  "failedResults": []
+}

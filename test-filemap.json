@@ -1,0 +1,102 @@
+{
+  "timestamp": "2025-08-09T11:22:31.329Z",
+  "features": [
+    "member"
+  ],
+  "totalFiles": 5,
+  "uploadedFiles": 5,
+  "failedFiles": 0,
+  "uploadResults": [
+    {
+      "originalPath": "members/002493a95971.jpg",
+      "directusId": "test-1754738548919-wo8o8payz",
+      "filename": "test_002493a95971.jpg",
+      "mappings": [
+        {
+          "feature": "member",
+          "table": "pinoyphp_users",
+          "column": "picture1",
+          "id": "002493",
+          "oldPath": "002493a95971.jpg",
+          "fileName": "002493a95971.jpg",
+          "directusId": "test-1754738548919-wo8o8payz",
+          "fileSize": 729628
+        }
+      ],
+      "fileSize": 729628
+    },
+    {
+      "originalPath": "members/00d16e36759a.jpg",
+      "directusId": "test-1754738549522-wr8pep08n",
+      "filename": "test_00d16e36759a.jpg",
+      "mappings": [
+        {
+          "feature": "member",
+          "table": "pinoyphp_users",
+          "column": "picture1",
+          "id": "00",
+          "oldPath": "00d16e36759a.jpg",
+          "fileName": "00d16e36759a.jpg",
+          "directusId": "test-1754738549522-wr8pep08n",
+          "fileSize": 126741
+        }
+      ],
+      "fileSize": 126741
+    },
+    {
+      "originalPath": "members/02f8f5bd5fcd.jpg",
+      "directusId": "test-1754738550125-ohq0y6cdl",
+      "filename": "test_02f8f5bd5fcd.jpg",
+      "mappings": [
+        {
+          "feature": "member",
+          "table": "pinoyphp_users",
+          "column": "picture1",
+          "id": "02",
+          "oldPath": "02f8f5bd5fcd.jpg",
+          "fileName": "02f8f5bd5fcd.jpg",
+          "directusId": "test-1754738550125-ohq0y6cdl",
+          "fileSize": 22988
+        }
+      ],
+      "fileSize": 22988
+    },
+    {
+      "originalPath": "members/072f9e2cfca3.jpg",
+      "directusId": "test-1754738550727-nw8f21y8c",
+      "filename": "test_072f9e2cfca3.jpg",
+      "mappings": [
+        {
+          "feature": "member",
+          "table": "pinoyphp_users",
+          "column": "picture1",
+          "id": "072",
+          "oldPath": "072f9e2cfca3.jpg",
+          "fileName": "072f9e2cfca3.jpg",
+          "directusId": "test-1754738550727-nw8f21y8c",
+          "fileSize": 65501
+        }
+      ],
+      "fileSize": 65501
+    },
+    {
+      "originalPath": "members/08ac9ae5762d.jpg",
+      "directusId": "test-1754738551329-4xwfgkx26",
+      "filename": "test_08ac9ae5762d.jpg",
+      "mappings": [
+        {
+          "feature": "member",
+          "table": "pinoyphp_users",
+          "column": "picture1",
+          "id": "08",
+          "oldPath": "08ac9ae5762d.jpg",
+          "fileName": "08ac9ae5762d.jpg",
+          "directusId": "test-1754738551329-4xwfgkx26",
+          "fileSize": 180576
+        }
+      ],
+      "fileSize": 180576
+    }
+  ],
+  "failedResults": []
+}

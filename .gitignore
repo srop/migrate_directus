@@ -1,0 +1,8 @@
+# Directus uploads
+/node_modules/*
+/webpage/*
+/old/*
+/processed/*
+/failed/*
+/bak/*
+/members/*

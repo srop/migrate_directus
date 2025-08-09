@@ -1,0 +1,47 @@
+{
+  "name": "directus-image-migrator",
+  "version": "2.0.0",
+  "description": "Directus Image Migration Tool with Feature Support",
+  "main": "batch-migrate.js",
+  "scripts": {
+    "start": "node batch-migrate.js",
+    "test": "node batch-migrate.js --feature=topic --test",
+    "migrate:topic": "node batch-migrate.js --feature=topic",
+    "migrate:detail": "node batch-migrate.js --feature=detail",
+    "migrate:all": "node batch-migrate.js --feature=all",
+    "status": "node batch-migrate.js --status",
+    "config": "node batch-migrate.js --config",
+    "help": "node batch-migrate.js --help",
+    "clean": "node -e \"require('./fileUtils').clearBatchLog(false); require('./fileUtils').clearBatchLog(true)\"",
+    "backup": "node -e \"require('./fileUtils').createBackup(false)\"",
+    "stats": "node -e \"require('./fileUtils').getFileStatistics().then(console.log)\""
+  },
+  "keywords": [
+    "directus",
+    "migration",
+    "image",
+    "upload",
+    "batch",
+    "cms"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "form-data": "^4.0.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/directus-image-migrator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/directus-image-migrator/issues"
+  },
+  "homepage": "https://github.com/yourusername/directus-image-migrator#readme"
+}
